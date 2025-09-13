@@ -1,0 +1,190 @@
+body{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: 0;
+    width: 100%;
+    max-width: 1170px;
+    height: 100vh;
+    max-height: 3843px;
+    
+    
+}
+
+
+.logo{
+    
+    justify-content: flex-start;
+    align-content: center;
+    
+
+}
+
+
+nav{
+    
+    display: inline;
+    justify-content: space-around;
+
+    
+}
+
+
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.signin{
+    background-color: #ffffff;
+    border: 1px solid #BCD0E5;
+    border-radius: 5px;
+    
+}
+
+
+.buttonsize{
+    width: 175px;
+    height: 53px;
+    font-weight: 600;
+
+}
+
+
+.signup {
+
+    background-color: #F48C06;   /* orange */
+    color: white;
+    border-radius: 5px;
+    border: 0; 
+}
+
+.navbar button{
+    font-weight: 600;
+    width: 102px;
+    height: 46px;
+}
+
+
+.titles{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 400;
+    color:#2F281E
+}
+
+
+
+.Iconbox{
+    display: flex; 
+    font-family: "Poppins", sans-serif;  
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    height: 204px;
+    column-gap: 20px;
+    margin-top: 70px; 
+    
+    
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+h1{
+    justify-content: space-between;
+}
+
+.mainbox{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 70px;   
+    gap: 40px;
+    
+    
+}
+
+.maintext{
+    width: 450px;
+    height: 331px;
+
+}
+
+
+
+
+.space{
+    padding-top:20px;
+    padding-bottom: 20px;
+    line-height: 21px;
+}
+
+.main-button{
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+
+
+
+.icon{
+    font-family: "Poppins", sans-serif;
+    justify-items: center;
+    align-items: center;
+    margin-top: 30px;
+    
+
+
+}
+
+
+footer{
+    margin: 30px;
+    width: 1110px;
+    height: 308px;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.empty-button{
+    width: 325px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid #BCD0E5;
+    
+}
+
+.footer-button{
+    
+    width: 131px;
+    height: 39px;
+}
+
+.footer{
+    width: 325px;
+    height: 199px;
+    align-items: flex-end;
+    display: inline-grid;
+
+}
+
+.line{
+    margin-top: 50px;
+    width: 1109px;
+    height: 1px;
+    border-radius: 5px;
+    border: 1px solid #BCD0E5;
+    background-color:#BCD0E5 ;
+}
