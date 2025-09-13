@@ -120,7 +120,12 @@ h1{
 }
 
 
+.points{
+    display: flex;
+    gap: 20px;
 
+
+}
 
 .space{
     padding-top:20px;
@@ -152,7 +157,7 @@ footer{
     margin: 30px;
     width: 1110px;
     height: 308px;
-
+    font-family: "Poppins", sans-serif;
     display: flex;
     justify-content: space-between;
 
